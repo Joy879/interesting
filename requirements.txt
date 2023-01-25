@@ -1,5 +1,4 @@
 streamlit
-pyaudio
 pyttsx3
 pypdf2
-python-espeak
+
