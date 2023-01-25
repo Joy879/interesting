@@ -1,3 +1,3 @@
 libespeak1
 alsa-utils
-portaudio19
+portaudio19-dev
