@@ -1,6 +1,5 @@
 libespeak1
 espeak
-update
 alsa-utils
 portaudio19-dev
 ffmpeg
